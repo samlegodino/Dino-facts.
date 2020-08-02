@@ -1,0 +1,50 @@
+ 
+ h1 {
+      color: black;
+      font-size: 78px;
+      font-family: blackadder ITC;
+      font-weight: bolder;
+     }
+
+     p{
+       color:red;
+       font-size: 28px;
+       font-style: oblique;
+       font-family: chiller;     
+       font-weight: bold;  
+      }
+
+a{
+  color: yellow;
+  font-style:normal;
+  font-family: Forte;
+   
+}
+
+
+h2{
+  color: whitesmoke;
+  font-size: 32px;
+  font-family: Algerian;
+}
+
+th{
+   color: rgb(255, 0, 119);
+   font-size: 24px;
+   text-align: left;
+
+}
+
+table, th, td {
+  border: 1px solid white;
+ }
+
+ p1{
+  color:whitesmoke;
+  font-size: 22px;
+  font-style: oblique;
+  font-family: chiller;     
+  font-weight: bold;  
+ }
+
+ 

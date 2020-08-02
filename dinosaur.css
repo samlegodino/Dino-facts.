@@ -1,0 +1,42 @@
+h1 {
+    color: pink;
+    font-size: 31px;
+    font-family: blackadder ITC;
+    font-weight: bolder;
+   }
+
+   a{
+    color: yellow;
+    font-style:normal;
+    font-family: Forte;
+     
+  }
+
+  li{
+    color: white;
+    font-style:normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+  }
+
+
+  i{
+    color: white;
+    font-style:normal;
+    font-family: cursive;   
+   
+  }
+
+  div {
+    position: absolute;
+    right: 150px;
+    background-color: rgb(0, 124, 128);
+    width: 300px;
+    border: 15px solid darkslategray;
+    padding: 50px;
+    margin: 20px;
+  }
+
+  p1{
+ color: red;
+
+  }
